@@ -1,4 +1,4 @@
-# HAOS-kiosk
+# HAOS-kiosk but version 0.0.9 for fbi Display Devices
 
 Display HA dashboards in kiosk mode directly on your HAOS server.
 
